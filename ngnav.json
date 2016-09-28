@@ -1,4 +1,4 @@
-[
+﻿[
 	{
 		"category":"工具", 
 		"items":[
@@ -58,15 +58,9 @@
 		"items":[
 			{"title":"", "url":"", "desc":""}
 		]
-	},
-	
-	{
-		"category":"网站", 
-		"items":[
-			{"title":"CodePen", "url":"", "desc":""},
-			{"title":"HTML5中文网", "url":"", "desc":""}
-		]
 	}
+	
+	
 ]
 
 
